@@ -1,4 +1,4 @@
-# Sort-Shape-Game
+# Shape-Sort-Game
 Game to Sort Shapes By Colour with p5.js Javascript Library
 
 Check it:
